@@ -38,6 +38,27 @@
 </details>
 
 <details>
+  <summary>📈 My Stats: </summary>
+  <br/>
+  <div>
+     <img src="https://www.codewars.com/users/IvanVasil-ev/badges/large?theme=dark" />
+     <br />
+     <img src="https://github-readme-stats.vercel.app/api?username=IvanVasil-ev&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Ivan's Github Stats" />
+     <br/>
+     <br/>
+     <div>
+        <div>
+          <img src="https://komarev.com/ghpvc/?username=IvanVasil-ev&color=brightgreen&label=Github Profile Views"/>
+           &nbsp;
+          <a href="https://github.com/IvanVasil-ev">
+            <img src="https://img.shields.io/github/followers/IvanVasil-ev.svg?style=social&label=Follow"/>
+          </a>
+        </div>
+     </div>
+  </div>
+</details>
+
+<details>
   <summary>🌐 My Personal Website / Additional links: </summary>
   <br/>
   <div align="center">
@@ -53,25 +74,6 @@
     &nbsp;
     &nbsp;
     <img src="./assets/mona-dark.gif" width="30" height="30" />
-  </div>
-</details>
-
-<details>
-  <summary>📈 My GitHub Stats: </summary>
-  <br/>
-  <div>
-     <img src="https://github-readme-stats.vercel.app/api?username=IvanVasil-ev&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Ivan's Github Stats" />
-     <br/>
-     <br/>
-     <div>
-        <div>
-          <img src="https://komarev.com/ghpvc/?username=IvanVasil-ev&color=brightgreen&label=Github Profile Views"/>
-           &nbsp;
-          <a href="https://github.com/IvanVasil-ev">
-            <img src="https://img.shields.io/github/followers/IvanVasil-ev.svg?style=social&label=Follow"/>
-          </a>
-        </div>
-     </div>
   </div>
 </details>
 
