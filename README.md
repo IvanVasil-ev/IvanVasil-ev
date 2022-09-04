@@ -1,7 +1,9 @@
-### Hi there, I'm Ivan Vasiliev 👋🏻
-<div align="right">
-<img src="./assets/finnAndJakePixelArt.gif" width="270px" height="145.4px"/>
-</div>
+<h1>Hi there, I'm Ivan Vasiliev 👋🏻</h1>
+<img src="./assets/finnAndJakePixelArt.gif" width="270px" height="145.4px" align="right" />
+
+
+
+<img src="https://www.codewars.com/users/IvanVasil-ev/badges/large?theme=dark" />
 
 <details>
   <summary>
@@ -38,11 +40,9 @@
 </details>
 
 <details>
-  <summary>📈 My Stats: </summary>
+  <summary>📈 My Github Stats: </summary>
   <br/>
   <div>
-     <img src="https://www.codewars.com/users/IvanVasil-ev/badges/large?theme=dark" />
-     <br />
      <img src="https://github-readme-stats.vercel.app/api?username=IvanVasil-ev&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Ivan's Github Stats" />
      <br/>
      <br/>
