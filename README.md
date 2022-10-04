@@ -43,9 +43,6 @@
   <summary>📈 My Github Stats: </summary>
   <br/>
   <div>
-     <img src="https://github-readme-stats.vercel.app/api?username=IvanVasil-ev&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Ivan's Github Stats" />
-     <br/>
-     <br/>
      <div>
         <div>
           <img src="https://komarev.com/ghpvc/?username=IvanVasil-ev&color=brightgreen&label=Github Profile Views"/>
