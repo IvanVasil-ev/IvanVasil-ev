@@ -100,6 +100,6 @@
   </div>
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanVasil-ev&hide=html&layout=compact)](https://github.com/IvanVasil-ev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanVasil-ev&hide=html&layout=compact&theme=dark)](https://github.com/IvanVasil-ev)
                                                           
 <!-- **IvanVasil-ev/IvanVasil-ev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
